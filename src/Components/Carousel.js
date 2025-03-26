@@ -23,7 +23,7 @@ function Carousel() {
     motorolaImage,
   ];
 
-  const intervalRef = useRef(null);
+  const intervalRef = useRef(null); // To store intervalID, cannot use state as it cause re-render and we cannot use variable assignment because on re-render the value will be lost.
   const [image, setImage] = useState(0);
   const [paused, setPaused] = useState(false);
 
