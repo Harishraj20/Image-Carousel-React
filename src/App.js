@@ -1,5 +1,4 @@
-import './App.css';
-import Carousel from './Carousel';
+import Carousel from './Components/Carousel';
 import "./FontAwesomeConfig";
 function App() {
   return (

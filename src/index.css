@@ -1,3 +1,6 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
 .image-holder {
   display: flex;
   align-items: center;

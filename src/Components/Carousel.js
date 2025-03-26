@@ -1,11 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
 
-import redmiImage from "./Assets/1739178997931_redmi.jpg";
-import samsungImage from "./Assets/1739179288734_samsung.jpg";
-import oppoImage from "./Assets/1739179306850_oppo.jpg";
-import pocoImage from "./Assets/1739179816204_poco.jpg";
-import realImage from "./Assets/1739179840686_realme.jpg";
-import motorolaImage from "./Assets/1739179914829_motorola.jpg";
+import redmiImage from "../Assets/1739178997931_redmi.jpg";
+import samsungImage from "../Assets/1739179288734_samsung.jpg";
+import oppoImage from "../Assets/1739179306850_oppo.jpg";
+import pocoImage from "../Assets/1739179816204_poco.jpg";
+import realImage from "../Assets/1739179840686_realme.jpg";
+import motorolaImage from "../Assets/1739179914829_motorola.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faArrowLeft,
